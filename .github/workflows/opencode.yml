@@ -30,4 +30,4 @@ jobs:
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         with:
-          model: openrouter/google/gemini-3.1-flash-lite-preview
+          model: openrouter/deepseek/deepseek-v3.2
